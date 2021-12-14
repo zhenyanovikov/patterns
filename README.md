@@ -1,6 +1,6 @@
 # Patterns
 
-This repository contains patterns I think the most useful in Go
+This repository contains patterns I think are most useful in Go
 
 ## Creational patterns
 
